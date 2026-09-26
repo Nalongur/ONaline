@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <!-- Deliberately pinned to the compileSdk 35 compatible AndroidX baseline. -->
+    <issue id="GradleDependency" severity="ignore" />
+</lint>
