@@ -22,7 +22,6 @@ ONaline 是一款面向两个人的 Android 私密协作画布，让日常交流
 | `app/` | Kotlin、Jetpack Compose Android 应用与测试 |
 | `relay-server/` | Node.js WebSocket Relay 与自动化测试 |
 
-
 ## 本地运行
 
 需要 JDK 17、Android SDK，以及 Node.js 和 npm。Android 最低版本为 API 26。Windows PowerShell 示例：
