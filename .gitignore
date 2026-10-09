@@ -16,5 +16,4 @@ relay-server/node_modules/
 /artifacts/
 /*.xml
 /*.png
-/design/*.png
-/design/implementation-progress-*.md
+/design/

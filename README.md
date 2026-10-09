@@ -21,7 +21,6 @@ ONaline 是一款面向两个人的 Android 私密协作画布，让日常交流
 | --- | --- |
 | `app/` | Kotlin、Jetpack Compose Android 应用与测试 |
 | `relay-server/` | Node.js WebSocket Relay 与自动化测试 |
-| `design/app-interaction-logic-tree-v1.2.md` | 产品交互逻辑与状态设计 |
 
 ## 本地运行
 
