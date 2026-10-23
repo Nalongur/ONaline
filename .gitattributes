@@ -1,0 +1,3 @@
+
+# Keep executable Git hooks usable on every platform.
+.githooks/* text eol=lf
